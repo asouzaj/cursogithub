@@ -1,4 +1,4 @@
 estado
-linha3 
+linha3 este linha foi alterada
 
 linha 2
